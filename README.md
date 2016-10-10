@@ -1,5 +1,5 @@
 # ui_component
-Implementation of ui component convention in coffescript
+Proof on concept implementation of ui component convention in coffescript
 
 Usage
 ```
